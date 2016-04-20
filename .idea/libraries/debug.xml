@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Week8Application/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_c2dc08389f0702246befeb9d484a12893073a089.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Week8Application/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_557cbbb5692976e23cbfd33ca3c12b9f9f191e7b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Week8Application/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_20d6243303f29673e79d7c7f570763481a1a5e62.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Week8Application/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_fe33b47d51a5f2228360af6a5036d474a56ddbfc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Week8Application/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_cf3f86d66f20e15509b415d057259c17fb959702.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Week8Application/app/build/intermediates/pre-dexed/debug/debug_e1610b620265b9cb2f472102fd36769d8dee0c01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Week8Application/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_f92ffc27cc129224b185d6614fa360c494c0581e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Week8Application/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_696b686972dfcd587a5c454629851536dc94b9de.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Week8Application/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_067b2e075cdb3fa40b4a955912c83167dddc268f.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
